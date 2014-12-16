@@ -1,7 +1,4 @@
 test commit
 web change
-<<<<<<< HEAD
 the number is 6
-=======
-the number is 5
->>>>>>> refs/remotes/origin/master
+
